@@ -6,7 +6,7 @@
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+There are several ways of editing your application. Edits can be made in small increments with more testing than you think you need. Commit often and use descriptive messages. 
 
 **Use Lovable**
 
